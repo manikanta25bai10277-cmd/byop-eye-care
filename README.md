@@ -38,17 +38,13 @@ Rule-based decision system:
 2. Run:
    python main.py
 
-OR (for GUI):
-   python gui.py
-
 ---
 
 ## 📂 Project Structure
 
 - main.py → Main program logic  
 - reminder.py → Reminder system  
-- logger.py → Stores user data  
-- gui.py → GUI interface  
+- logger.py → Stores user data   
 - data.txt → Logs  
 
 ---
