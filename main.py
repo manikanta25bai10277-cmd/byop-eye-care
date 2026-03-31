@@ -45,7 +45,7 @@ else:
     interval = 10
     print("\nNormal usage → Moderate reminders")
 
-# Reminder Function (now inside same file)
+# Reminder Function
 def start_reminder(interval):
     for i in range(5):
         print("\n🔔 Eye Care Reminder:")
